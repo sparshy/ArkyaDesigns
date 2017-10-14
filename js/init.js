@@ -270,7 +270,7 @@ function beryl(){
 			new google.maps.Point(0,0),
 			new google.maps.Point(35,20)
 		);
-		var companyPos = new google.maps.LatLng(43.270441,6.640888);
+		var companyPos = new google.maps.LatLng(28.470741,77.041788);
 		var companyMarker = new google.maps.Marker({
 			position: companyPos,
 			map: map,
